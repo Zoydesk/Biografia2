@@ -225,6 +225,28 @@
             </article>
 
             <article class="skill">
+
+                
+                <div class="skill-head">
+                    <div class="icon">JS</div>
+                    <div>
+                        <h2>Segunda habilidad — Frontend</h2>
+                        <div class="muted">HTML · CSS · JavaScript</div>
+                    </div>
+                </div>
+
+                <p>
+                    Trabajando con JavaScript conseguí la experiencia necesaria para desarrollar el frontend de
+                    aplicaciones web,
+                    complementado con CSS para dar estilo y UX a los proyectos. Manejo la manipulación del DOM y
+                    conceptos modernos.
+                </p>
+
+                <div class="points">
+                    <span class="tag">HTML</span>
+                    <span class="tag">CSS</span>
+                    <span class="tag">Vanilla JS</span>
+                </div>
                 
             </article>
 
