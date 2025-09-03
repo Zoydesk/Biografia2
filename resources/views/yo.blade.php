@@ -202,6 +202,9 @@
       <div class="content">
         <p class="about">
 
+          Nací el 12 de diciembre en Barrancabermeja, mis padres son Yesenia Contreras y Raul Beltran.
+          Cuento con 2 hermanos, una niña y un niño, ambos menores.
+
         </p>
 
         <div class="grid">
