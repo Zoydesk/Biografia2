@@ -242,6 +242,12 @@
 
         <article class="section" style="margin-top:16px;">
 
+            <h3>Metas y aspiraciones <span class="badge">Futuro</span></h3>
+          <p>
+            Mi meta a corto plazo es graduarme y conseguir trabajo en lo que realmente me gusta: desarrollo web o ciberseguridad.
+            Aspiro a lo de una persona común: estabilidad, una esposa y una familia que ame y me ame.
+          </p>
+
 
           <!-- Botones -->
           <!-- Botón con clase "btn-exp" -->
