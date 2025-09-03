@@ -209,6 +209,13 @@
 
         <div class="grid">
           <article class="section">
+
+            <h3>Niñez <span class="badge">Recuerdos</span></h3>
+            <p>
+              Cuando era niño vivía en un conjunto cerrado en el cual tenía muchos amigos y salía a jugar con ellos:
+              fútbol, montar bicicleta o simplemente conversar sobre lo que les gusta a los niños; juegos de “matar”
+              y épicas batallas de rap del frikismo. También iba al colegio.
+            </p>
  
           </article>
 
