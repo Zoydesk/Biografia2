@@ -156,6 +156,12 @@
             <div class="event">
                 <div class="card">
 
+                     <h2>3er Año</h2>
+                    <p>
+                        En este punto de mi carrera obtuve experiencia en <b>desarrollo móvil con Kotlin</b>, además de
+                        trabajar en proyectos de software y adquirir conocimientos en <b>arquitectura de software</b>.
+                    </p>
+
                 </div>
             </div>
         </div>
