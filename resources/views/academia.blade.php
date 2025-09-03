@@ -102,6 +102,14 @@
                 sobrevivir en ella.</p>
         </div>
 
+        <div class="card">
+            <h2>Universidad</h2>
+            <p>Aunque aún estoy cursando la universidad (6.º semestre), he aprendido bastante y encontré mi vocación: el
+                desarrollo web. A pesar de conocer lo básico, también adquirí muchas más habilidades: Python,
+                JavaScript, Kotlin, entre otras. Sigo aprendiendo y estoy enfocado en mi futuro.</p>
+        </div>
+    </div>
+
 
 
     <a class="back-link" href="{{ url('/Yo') }}">← Volver a la biografía</a>
