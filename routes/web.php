@@ -7,6 +7,7 @@ Route::get('/Yo', function () {
 });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Route::get('/exp', function () {
     return view('experiencia'); 
 })->name('exp');
@@ -15,3 +16,8 @@ Route::get('/habilidades', function () {
     return view('habilidades'); 
 })->name('habilidades');
 >>>>>>> habilidades
+=======
+Route::get('/academia', function () {
+    return view('academia'); 
+})->name('academia');
+>>>>>>> academia
