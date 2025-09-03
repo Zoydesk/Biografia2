@@ -220,6 +220,12 @@
           </article>
 
           <article class="section">
+
+            <h3>Adolescencia <span class="badge">Gaming</span></h3>
+            <p>
+              En mi adolescencia mi vida se basaba en jugar videojuegos y, para rematar, cayó la pandemia, donde vicié aún más,
+              especialmente con Fortnite. Cuando terminó la pandemia empecé a salir de fiestas donde hice muchas más amistades.
+            </p>
          
           </article>
 
