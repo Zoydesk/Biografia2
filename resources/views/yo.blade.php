@@ -230,6 +230,12 @@
           </article>
 
           <article class="section">
+
+            <h3>Adultez <span class="badge">Presente</span></h3>
+            <p>
+              Actualmente me dedico a estudiar una carrera profesional: Ingeniería de Sistemas (voy en 6.º semestre) y juego
+              ocasionalmente; ya no Fortnite, ahora Valorant.
+            </p>
  
           </article>
         </div>
