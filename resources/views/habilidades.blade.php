@@ -224,9 +224,7 @@
                 </div>
             </article>
 
-            <article class="skill">
-
-                
+            <article class="skill">       
                 <div class="skill-head">
                     <div class="icon">JS</div>
                     <div>
@@ -249,8 +247,31 @@
                 </div>
                 
             </article>
+            
 
             <article class="skill">
+
+                 <div class="skill-head">
+                    <div class="icon">Kt</div>
+                    <div>
+                        <h2>Tercera habilidad — Desarrollo móvil</h2>
+                        <div class="muted">Kotlin · Arquitectura · Gestión</div>
+                    </div>
+                </div>
+
+                <p>
+                    Poseo experiencia en desarrollo móvil con Kotlin, diseñando arquitectura de software y gestionando
+                    proyectos.
+                    Además, tengo conocimientos básicos de ciberseguridad y certificaciones orientadas a ciencia de
+                    datos (AWS).
+                </p>
+
+                <div class="points">
+                    <span class="tag">Kotlin</span>
+                    <span class="tag">Arquitectura</span>
+                    <span class="tag">Ciberseguridad</span>
+                </div>
+
 
             </article>
         </section>
