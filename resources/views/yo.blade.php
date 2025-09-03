@@ -223,7 +223,7 @@
 
           <!-- Botones -->
           <!-- Botón con clase "btn-exp" -->
-          <button class="btn-exp" onclick="window.location.href='{{ route('exp') }}'">
+          {{-- <button class="btn-exp" onclick="window.location.href='{{ route('exp') }}'">
           Experiencia laboral
           </button>
 
@@ -233,7 +233,7 @@
 
           <button class="btn-exp" onclick="window.location.href='{{ route('academia') }}'">
           Academia
-          </button>
+          </button> --}}
 
 
         </article>
