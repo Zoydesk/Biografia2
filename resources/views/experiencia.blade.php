@@ -144,6 +144,12 @@
             <div class="event">
                 <div class="card">
 
+                    <h2>2do Año</h2>
+                    <p>
+                        Trabajando en <b>JavaScript</b> adquirí experiencia en el <b>front end</b> de desarrollos web,
+                        sumando a esto conocimiento en <b>CSS</b> para dar estilo y diseño a los proyectos.
+                    </p>
+
                 </div>
             </div>
 
